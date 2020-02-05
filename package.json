@@ -1,0 +1,28 @@
+{
+  "name": "2017-3",
+  "version": "0.0.2",
+  "description": "Learning node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnking-afk/2017-3.git"
+  },
+  "keywords": [
+    "Learn",
+    "node",
+    "server",
+    "seattleacademy"
+  ],
+  "author": "John Hanson King",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnking-afk/2017-3/issues"
+  },
+  "homepage": "https://github.com/johnking-afk/2017-3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
